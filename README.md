@@ -75,21 +75,9 @@
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vssmxlls&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Languages
 
- <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Vssmxlls&show_icons=true&locale=en&layout=compact&theme=radical)]()
 
- </div>
-
-### 🏆 Profile Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vssmxlls&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -97,5 +85,5 @@
 
 <div align="center">
 <a href="https://github.com/Vssmxlls"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="samuelcuesta56782094@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
