@@ -25,26 +25,26 @@
 
 #### 🔧 Languages
 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) **Basic / Intermediate**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) **Basic / Intermediate**
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) **Basic**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) **Basic**
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) **Basic**
+- <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> &nbsp; `▰▰▰▰▰▱▱▱▱▱` &nbsp; Basic / Intermediate
+- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> &nbsp; `▰▰▰▰▰▱▱▱▱▱` &nbsp; Basic / Intermediate
+- <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> &nbsp; `▰▰▱▱▱▱▱▱▱▱` &nbsp; Basic
+- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> &nbsp; `▰▰▱▱▱▱▱▱▱▱` &nbsp; Basic
+- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> &nbsp; `▰▰▱▱▱▱▱▱▱▱` &nbsp; Basic
 
 #### 🖥️ Frameworks
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) **Basic / Intermediate**
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) **Basic / Intermediate** (learning)
+- <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> &nbsp; `▰▰▰▰▰▱▱▱▱▱` &nbsp; Basic / Intermediate
+- <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" /> &nbsp; `▰▰▰▰▰▱▱▱▱▱` &nbsp; Basic / Intermediate (learning)
 
 #### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) **Intermediate**
+- <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> &nbsp; `▰▰▰▰▰▰▰▱▱▱` &nbsp; Intermediate
 
 #### 🔧 Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
