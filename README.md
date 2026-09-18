@@ -50,7 +50,7 @@
 
  <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Vssmxlls&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=Samuel_Arango&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
 
 </div>
@@ -59,7 +59,7 @@
 
  <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vssmxlls&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuel-Arango&theme=github_dark)
 
  </div>
 
@@ -67,7 +67,7 @@
 
  <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vssmxlls&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samuel-Arango&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
  
 
@@ -82,6 +82,6 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="https://github.com/Vssmxlls"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Samuel-Arango"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="samuelcuesta56782094@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
