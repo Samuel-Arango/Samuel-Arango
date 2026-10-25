@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vssmxlls"><img src="https://komarev.com/ghpvc/?username=Vssmxlls&label=Profile+Views&color=38C6FF&style=flat-square" alt="views" /></a>
-  <a href="https://github.com/Vssmxlls?tab=followers"><img src="https://img.shields.io/github/followers/Vssmxlls?label=Followers&style=flat-square&color=38C6FF" alt="followers" /></a>
+  <a href="https://github.com/Samuel-Arango"><img src="https://komarev.com/ghpvc/?username=Vssmxlls&label=Profile+Views&color=38C6FF&style=flat-square" alt="views" /></a>
+  <a href="https://github.com/Samuel-Arango?tab=followers"><img src="https://img.shields.io/github/followers/Vssmxlls?label=Followers&style=flat-square&color=38C6FF" alt="followers" /></a>
 </p>
 
 ---
@@ -55,20 +55,20 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vssmxlls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vssmxlls&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Arango&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Arango&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vssmxlls&theme=tokyonight&hide_border=true&background=0D1117&ring=38C6FF&fire=38C6FF&currStreakLabel=38C6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samuel-Arango&theme=tokyonight&hide_border=true&background=0D1117&ring=38C6FF&fire=38C6FF&currStreakLabel=38C6FF)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vssmxlls&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuel-Arango&theme=tokyonight)
 
 </div>
 
@@ -82,7 +82,6 @@
 | 🌐 **Web Backend** | REST API with auth & DB integration | Django, MySQL |
 | 🗄️ **CRUD System** | Full-stack CRUD with admin panel | PHP, MySQL |
 
-> 🔗 Replace with your real repos — pin them for visibility.
 
 ---
 
